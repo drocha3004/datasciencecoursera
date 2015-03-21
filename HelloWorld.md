@@ -1,4 +1,4 @@
 ## This is a markdown file
-add
-commit
-push
+$ git add .
+$ git commit -m 'First commit'
+$ git push origin master
